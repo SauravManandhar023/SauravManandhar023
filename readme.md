@@ -20,8 +20,8 @@ Motivated IT professional with a strong foundation in graphic design and web dev
 
 ## 🛠️ Tech Stack
 
-- **Front End**: HTML, CSS, JavaScript, PHP
-- **Back End**: Node.js
+- **Front End**: HTML, CSS, JavaScript, React
+- **Back End**: Node.js, PHP, C#, Java
 - **Database**: MySQL, MongoDB
 - **Design Tools**: Figma, Photoshop, Illustrator, Canva
 
@@ -72,14 +72,19 @@ Motivated IT professional with a strong foundation in graphic design and web dev
 
 - MERN Stack by Dursikshya
 - Adobe Photoshop & Illustrator
+- Backend Development with PHP & MySQL (self-learned & applied in projects
+- Figma for UI/UX(Self)
 
 ---
 
 ## 📂 Projects
 
+- Snake Game (C- Academic Project)
 - **HamroCV**
 - **Ecommerce Site**
 - **Figma Prototypes**
+- **EVConnect Nepal**
+- **Backend Development with PHP & MySQL (self-learned & applied in projects)**
 
 ---
 
