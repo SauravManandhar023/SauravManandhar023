@@ -1,109 +1,174 @@
-# Saurav Manandhar
+<div align="center">
 
-## 📍 Location
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saurav%20Manandhar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quality%20Assurance%20Engineer&descAlignY=58&descSize=20&descColor=a78bfa"/>
 
-Chhetrapati, Kathmandu, Nepal
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=QA+Engineer+%7C+Automation+Specialist;Selenium+%7C+RestAssured+%7C+Postman;Manual+%2B+Automation+Testing;Building+Quality+One+Test+at+a+Time" alt="Typing SVG" />
+</a>
 
-## 📞 Contact
+<br/>
 
-- **Email**: [sauravmdhr023@gmail.com](mailto:sauravmdhr023@gmail.com)
-- **Phone**: +977 - 9849789560
-- **LinkedIn**: [linkedin.com/in/sauravmdhr](https://linkedin.com/in/sauravmdhr)
-
----
-
-## 👨‍💻 About Me
-
-Motivated IT professional with a strong foundation in graphic design and web development, seeking to leverage my creative and technical skills in a challenging role.
-
----
-
-## 🛠️ Tech Stack
-
-- **Front End**: HTML, CSS, JavaScript, React
-- **Back End**: Node.js, PHP, C#, Java
-- **Database**: MySQL, MongoDB
-- **Design Tools**: Figma, Photoshop, Illustrator, Canva
-
----
-
-## 💡 Skills
-
-- Proficient in creating responsive full-stack websites.
-- Skilled in using Adobe Photoshop and Illustrator for creating visually appealing designs, logos, and marketing materials.
-- Familiar with Figma for UI/UX design and Canva for quick content creation.
-- **Social Media Graphics**: Experienced in designing engaging social media posts, banners, and promotional content that align with brand guidelines.
-- **Website Mockups**: Skilled in creating wireframes and website prototypes using Figma, focusing on user-friendly interfaces and modern design trends.
-- Adept at finding innovative solutions to design and technical challenges.
-
----
-
-## 🎓 Academic Information
-
-- **BSc. CSIT** - Prime College, Nayabazar, Kathmandu (Tribhuvan University)  
-  (GPA: 3.15)
-- **10+2 (Science)** - Trinity College
-
----
-
-## 🧑‍🎨 Experience
-
-### **Graphics Designing Intern**
-
-**Jan 2025 – Present**
-
-- Collaborated with the marketing team to design creative visuals for social media, websites, and promotional materials.
-- Developed and maintained brand consistency by creating logos, banners, and marketing assets.
-- Edited photos and created visually appealing content for digital campaigns using tools like Photoshop and Illustrator.
-- Assisted in brainstorming and executing design concepts for various projects, including web graphics and print materials.
-- Researched design trends to ensure content remained relevant and visually compelling.
-
-### **Creative Director - Prime IT Club**
-
-**April 2022 – Present**
-
-- Led a team of students in organizing and managing IT-related events and workshops.
-- Designed posters, event banners, and promotional graphics to boost student engagement.
-- Mentored junior members in using design tools such as Photoshop, Illustrator, and Figma.
-
----
-
-## 📚 Courses & Workshops
-
-- MERN Stack by Dursikshya
-- Adobe Photoshop & Illustrator
-- Backend Development with PHP & MySQL (self-learned & applied in projects
-- Figma for UI/UX(Self)
-
----
-
-## 📂 Projects
-
-- Snake Game (C- Academic Project)
-- **HamroCV**
-- **Ecommerce Site**
-- **Figma Prototypes**
-- **EVConnect Nepal**
-- **Backend Development with PHP & MySQL (self-learned & applied in projects)**
-
----
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravmanandhar023&label=Profile%20views&color=0e75b6&style=flat" alt="sauravmanandhar023" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravmanandhar023" alt="sauravmanandhar023" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sauravmdhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauravmdhr" height="30" width="40" /></a>
+<!-- Profile Views + Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/sauravmdhr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sauravmdhr023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SauravManandhar023">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sauravmanandhar023&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravmanandhar023&show_icons=true&locale=en&layout=compact" alt="sauravmanandhar023" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravmanandhar023&show_icons=true&locale=en" alt="sauravmanandhar023" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravmanandhar023&" alt="sauravmanandhar023" /></p>
+```yaml
+name       : Saurav Manandhar
+location   : Kathmandu, Nepal 🇳🇵
+role       : Quality Assurance Engineer
+experience : 4 months internship @ Sewaverse Enterprise Pvt. Ltd.
+education  : BSc. CSIT — Prime College, Tribhuvan University
+focus      : Manual Testing + Automation (Selenium, RestAssured, Cypress)
+currently  : Building REST API automation with RestAssured + JSON Server
+```
+
+---
+
+## 🛠️ QA & Testing Stack
+
+<div align="center">
+
+### 🔬 Testing Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-25D366?style=for-the-badge&logo=java&logoColor=white)
+
+### 🧪 Frameworks & Build
+![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testing-library&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure_Reports-brightgreen?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🐛 Bug Tracking & Version Control
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 💻 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 QA Highlights
+
+<div align="center">
+
+| Metric | Achievement |
+|--------|-------------|
+| 🧪 Test Cases Designed & Executed | **75+** |
+| 🐛 Defects Identified & Reported | **35+** |
+| 🔗 API Endpoints Tested (Postman) | **10+** |
+| ⚡ Automation Scripts (Cypress) | Regression suite |
+| 🏢 Company | Sewaverse Enterprise Pvt. Ltd. |
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Quality Assurance Intern — Sewaverse Enterprise Pvt. Ltd.
+**November 2025 – March 2026 | Kathmandu, Nepal**
+
+- Designed and executed **75+ structured test cases** covering functional flows, edge cases, boundary conditions, and negative test paths
+- Identified and documented **35+ software defects** in Jira with detailed reproduction steps, severity/priority ratings
+- Performed **REST API testing** using Postman across **10+ endpoints**, validating HTTP response codes, headers, and JSON payloads
+- Implemented **Cypress automation scripts** for repetitive functional test cases, reducing manual regression effort
+- Conducted structured **regression testing** after every bug fix and sprint release
+- Collaborated in **Agile/Scrum** workflow — sprint planning, daily standups, and defect triage sessions
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech | Testing |
+|---------|-------------|------|---------|
+| 🔌 **EVConnect Nepal** | EV charging infrastructure platform | React, Node.js | E2E + UI Testing |
+| 📄 **HamroCV** | Online CV builder web app | HTML, CSS, JS | Form + PDF validation |
+| 🛒 **E-Commerce App** | Full-stack shopping platform | PHP, MySQL | Functional + API Testing |
+| 🤖 **Selenium Practice** | UI automation test suite | Selenium, Java, TestNG | 12+ test scenarios |
+| 🔗 **RestAssured Practice** | REST API automation | Java, RestAssured, Maven | CRUD + Auth testing |
+| 🖥️ **JSON Automation Server** | Mock API server with auth | Node.js, json-server | Bearer + API Key auth |
+
+</div>
+
+---
+
+## 🧠 Core Competencies
+
+```
+✅ Manual & Black-Box Testing        ✅ Test Case Design & Execution
+✅ Defect Lifecycle Management       ✅ Regression & Smoke Testing  
+✅ REST API Testing (Postman)        ✅ Selenium WebDriver & TestNG
+✅ Cypress Automation                ✅ SDLC & STLC
+✅ Agile / Scrum Methodology         ✅ Bug Reporting (Jira)
+✅ Performance Testing (JMeter)      ✅ Page Object Model (POM)
+✅ Cross-Browser Testing             ✅ RestAssured API Automation
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauravmanandhar023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmanandhar023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravmanandhar023&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+## 🏆 Certifications
+
+- 📮 **Postman API Fundamentals** — Student Expert Path *(REST API Testing, Collections, Environments, Assertions)*
+- 🎨 **Figma UI/UX Design** — Wireframing, Prototyping, Component Libraries
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+📧 sauravmdhr023@gmail.com &nbsp;|&nbsp; 📍 Kathmandu, Nepal &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/sauravmdhr)
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</div>
