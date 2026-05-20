@@ -141,8 +141,11 @@ currently  : Building REST API automation with RestAssured + JSON Server
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sauravmanandhar023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmanandhar023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravmanandhar023&show_icons=true&locale=en&layout=compact" alt="sauravmanandhar023" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravmanandhar023&show_icons=true&locale=en" alt="sauravmanandhar023" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravmanandhar023&" alt="sauravmanandhar023" /></p>
 
 </div>
 
